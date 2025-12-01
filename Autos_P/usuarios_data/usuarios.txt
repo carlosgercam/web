@@ -1,0 +1,4 @@
+Ivan|Garcia|ivan1w2@gmail.com|ivan1234
+Carlos|Franco|carlos13@gmail.com|12345678
+Ivan|Garcia|ivan12@gmail.com|12345678
+carlos gerardo|camargo|carlos@gmail.com|123456789
